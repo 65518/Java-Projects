@@ -1,8 +1,4 @@
 # Text-To-Speech-GUI
-## Screenshot
-![Application Screenshot](T2S-ScreenShots/T2S-ScreenShot.png)
-
-
 
 ## Overview
 Welcome to the Text-To-Speech-GUI repository. This repository contains the source code for T2S, a JavaFX application that converts text to speech. The application features two main voices, a rate button to adjust the speed of the voice, and a level button to adjust the sound frequency. This tool is designed to provide an easy and accessible way to convert written text into spoken words.
@@ -47,3 +43,6 @@ To run this project locally, follow these steps:
 ## Contributing
 
 I welcome contributions to improve the Text-To-Speech-GUI application. If you have suggestions for enhancements, feel free to open an issue or submit a pull request.
+
+## Screenshot
+![Application Screenshot](T2S-ScreenShots/T2S-ScreenShot.png)
