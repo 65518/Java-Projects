@@ -26,7 +26,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/Text-To-Speech-GUI.git
+   git clone https://github.com/65518/Text-To-Speech-GUI.git
 2. Navigate to the project directory
    cd Text-To-Speech-GUI
 3. Open the project in your IDE and build the project
